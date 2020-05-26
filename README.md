@@ -4,6 +4,8 @@
 
 ![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-ULTIMATE-FREE/master/ADM_MANAGER_ULTIMATE.jpg)
 
+-------------------------------------------------------------------------------
+
 **Manager Script**
 
 ## :heavy_exclamation_mark: Requerimientos
