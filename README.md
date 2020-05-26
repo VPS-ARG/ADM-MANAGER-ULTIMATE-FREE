@@ -8,15 +8,17 @@
 
 ## :heavy_exclamation_mark: Requerimientos
 
-1 • RECOMENDADO UBUNTU 14.04
+* Un sistema operativo basado en Linux (Ubuntu o Debian)
+* Recomendamos Ubuntu 14.04
+* Se recomienda usar una distro nueva o formatiada
+* No traducir el script por fallas en la api de google (Install/trans)
 
-2 • USAR DISTRIBUCION NUEVA O FORMATIADA
-
-3 • NO TRADUCIR EL SCRIPT POR FALLAS DE LA API DE GOOGLE (FALLA EXTERIOR AL SCRIPT)
 
 ## Installation
 
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-ULTIMATE-FREE/master/instala.sh; chmod +x instala.sh; ./instala.sh
+
+-------------------------------------------------------------------------------
 
 ```
 * SIN MINERIA! 
