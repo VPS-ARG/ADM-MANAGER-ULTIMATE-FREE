@@ -2,7 +2,7 @@
 
 # ESTE PROYECTO A SIDO DESCONTINUADO.--
 
-![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-ULTIMATE-FREE/master/ADM_MANAGER_ULTIMATE.jpg)
+![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/VPS-MANAGER-V3.0/blob/master/Imagenes/ADM_MANAGER_ULTIMATE.jpg)
 
 -------------------------------------------------------------------------------
 

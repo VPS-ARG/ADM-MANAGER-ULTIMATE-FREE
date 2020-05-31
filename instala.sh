@@ -141,5 +141,5 @@ echo -e "${cor[1]}=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=�
 echo -e "${cor[2]}$(source trans -b pt:${id} "Opa!, Instalando...")"
 echo -e "${cor[1]}=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠"
 echo -ne "${cor[4]}"
-wget -O lista https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-ULTIMATE-FREE/master/lista -o /dev/null
+wget -O lista https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-ULTIMATE-FREE/master/Install/lista -o /dev/null
 valid_fun
